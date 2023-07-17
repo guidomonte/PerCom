@@ -1,0 +1,2 @@
+Progetto computazione pervasiva
+# PerCom
