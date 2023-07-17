@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572370046873",
+    "project_id": "unicounisannio",
+    "storage_bucket": "unicounisannio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572370046873:android:776fd3518e58fd95350d08",
+        "android_client_info": {
+          "package_name": "com.example.progetto_esame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572370046873-51j1m5d9ej1daudtflk9dnrfmlj9etgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDerdKTzTwu3jMSIVdZSHC9VAryOpzYI6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572370046873-51j1m5d9ej1daudtflk9dnrfmlj9etgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
